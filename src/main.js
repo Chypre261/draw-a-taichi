@@ -11,7 +11,7 @@ let string = `/* Let's see how to draw a Tai Chi
     height: 200px;
 }
 /* 
- * make a cirvle
+ * make a circle
  **/
 #div1{
     border-radius: 50%;
